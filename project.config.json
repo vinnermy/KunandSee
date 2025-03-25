@@ -14,8 +14,8 @@
   },
   "compileType": "game",
   "libVersion": "latest",
-  "appid": "wx19cb474773112543",
-  "projectname": "quickstart",
+  "appid": "你的appid",
+  "projectname": "KunandSee",
   "condition": {},
   "packOptions": {
     "ignore": [],
